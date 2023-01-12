@@ -1,3 +1,3 @@
-# Harmony Domain Name Service Prototyping
+# 1 Name Service Prototyping
 
-This organization is used for prototying Harmony's Domain Name Service.
+This organization is used for prototying 1 Name Service.
